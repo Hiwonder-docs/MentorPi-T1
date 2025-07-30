@@ -26,6 +26,4 @@ MentorPi T1
    docs/13.Robot_Network_Configuration.md
    docs/14.Large_AI_Model_Course.md
    docs/resources_download.md
-
-
-
+   Download <https://drive.google.com/drive/folders/1H0tKHLMqAV6LccCuZWC2NEyc4viGhxqx?usp=sharing>
