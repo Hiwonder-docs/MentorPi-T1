@@ -11,7 +11,7 @@ MentorPi T1
    :maxdepth: 2
    :caption: MentorPi T1
 
-   docs/1.Getting_Ready.md
+   docs/1.getting_ready.md
    docs/2.Remote_Tool_Installation_and_Container_Access
    docs/3.Motion_Control_Courses.md
    docs/4.lidar_lesson.md
