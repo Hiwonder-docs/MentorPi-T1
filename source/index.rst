@@ -15,7 +15,7 @@ MentorPi T1
    docs/2.remote_tool_installation_and_container_access.md
    docs/3.motion_control_courses.md
    docs/4.lidar_lesson.md
-   docs/5.depth_camera_basics_course.md
+   <a href='https://docs.hiwonder.com/projects/Aurora930-Pro/en/latest/index.html' target='_blank'>5. Depth Camera Basics Course</a>
    docs/6.mapping_courses.md
    docs/7.navigation_lesson.md
    docs/8.ros+opencv_lesson.md
